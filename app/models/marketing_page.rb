@@ -1,0 +1,2 @@
+class MarketingPage < ApplicationRecord
+end

@@ -1,0 +1,12 @@
+background {
+  color white;
+}
+
+.navbar {
+  background-color: blueviolet !important;
+}
+
+.btn-primary {
+  background-color: blueviolet !important;
+  border-color: blueviolet !important;
+}
